@@ -1,0 +1,15 @@
+Dependencies:
+ - make
+ - hyperfine (https://github.com/sharkdp/hyperfine)
+ - gcc/g++
+ - clang/clang++
+ - tcc
+ - zig (version 0.13.0)
+ - go (version 1.23.1)
+ - odin (nightly)
+ - dotnet
+ - bflat (https://github.com/bflattened/bflat)
+ - rust (version 1.81.0)
+ - ~~python (version 3.12.6)~~ (actually I used pypy because Python 3 was too slow)
+ - node (version v22.9.0)
+ - bun (version 1.1.29)

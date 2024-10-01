@@ -1,0 +1,9 @@
+*.exe
+*.pdb
+*.ilk
+*.pdb
+*.lib
+*.obj
+bin
+obj
+publish
